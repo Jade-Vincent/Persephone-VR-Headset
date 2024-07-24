@@ -3,7 +3,9 @@
 
 ## Intro
 Massive thanks to Relativty VR and Hades VR, I'm still using Hades VR drivers to develop hardware and I would have never gotten into open source VR without Relativty.
+
 Relativty VR GitHub: https://github.com/relativty/Relativty
+
 Hades VR GitHub: https://github.com/HadesVR/HadesVR
 
 ## Bom
